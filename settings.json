@@ -1,0 +1,14 @@
+{
+    "workbench.colorTheme": "Aura Dracula Spirit (Soft)",
+    "workbench.iconTheme": "material-icon-theme",
+    "material-icon-theme.hidesExplorerArrows": true,
+    "workbench.tree.renderIndentGuides": "none",
+    "workbench.tree.indent": 12,
+    "explorer.compactFolders": false,
+    "editor.lineNumbers": "relative",
+    "workbench.activityBar.location": "top",
+    "aws.telemetry": false,
+    "php.validate.executablePath": "",
+    "settingsSync.ignoredExtensions": [],
+    
+}
